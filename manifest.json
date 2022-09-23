@@ -1,7 +1,7 @@
 {
   "name": "facturacion",
   "vendor": "paulette",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "title": "paulette",
   "description": "Formulario de facturacion guardado en MD paulette",
   "builders": {
