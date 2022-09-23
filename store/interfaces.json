@@ -4,5 +4,8 @@
   },
   "facturacion": {
     "component": "Facturacion"
+  },
+  "cancelCancelButton":{
+    "component": "CancelCancelButton"
   }
 }
